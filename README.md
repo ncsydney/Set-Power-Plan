@@ -1,2 +1,5 @@
-# Set-Power-Plan
-Change your computer's power plan with a console application.
+# An easy way to change your windows power plan.
+
+## Eample image:
+
+![Output](example.png)
